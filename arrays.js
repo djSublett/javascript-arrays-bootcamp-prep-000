@@ -10,6 +10,8 @@ var chocolateBars = [
    return array;
   }
   
+  
+  
   function addElementToBeginningOfArray(array, element){
    
    
